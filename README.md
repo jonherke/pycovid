@@ -47,7 +47,7 @@ Parameters:
 
 <img src="img/long.PNG" width="100%" align="center"/></a>
 
-**plotCountries()**: Plot the country aggregates on world map using Plotly
+**plot_countries()**: Plot the country aggregates on world map using Plotly
 Parameters:
 1. df: Pass a wide dataframe to the function with country-wise aggregates on confirmed, death and recovered cases
 2. grouped_date: Boolean to indicate whether dataset has been aggregated at country level or not
